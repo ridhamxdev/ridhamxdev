@@ -46,7 +46,7 @@ I strive to leverage technology as a vehicle for meaningful innovation and posit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/></t>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/></t>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/></t>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brave/brave-original.svg" width="50" height="50"/></t>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brave/brave-original.svg" width="50" height="50"/></t> -->
 </p>
 ---
 

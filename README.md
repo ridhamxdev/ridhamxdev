@@ -9,7 +9,7 @@ I strive to leverage technology as a vehicle for meaningful innovation and posit
   - Data Structures and Algorithms on LeetCode 
   - Tools and technologies from React ecosystem  
 - 📬 How to reach me: ridhamgoyal3@gmail.com 
-- 📝 [Resume](Ridham_resume.pdf)
+- 📝 [Resume](Ridham_Goyal_resume.pdf)
 
 ## 💪 This is where I write, code and solve problems:
 

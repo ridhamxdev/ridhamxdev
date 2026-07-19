@@ -11,38 +11,30 @@
 
 <a href="mailto:ridhamgoyal3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="Ridham_Goyal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="https://github.com/ridhamxdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ridhamgoyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=ridhamxdev&style=for-the-badge&color=6EE7B7&label=VISITORS" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/ridhamxdev/ridhamxdev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contribution graph" />
 
 ---
 
-## 🧠 About Me
+## Who I am
 
-```ts
-const ridham = {
-  role:      "Full-Stack Software Engineer",
-  focus:     ["Clean architecture", "Impactful products", "Details nobody notices"],
-  learning:  ["Data Structures & Algorithms", "The React ecosystem, deeply"],
-  believes:  "Technology is a vehicle for meaningful change, not a flex.",
-  reach:     "ridhamgoyal3@gmail.com",
-};
-```
+I build across the stack — schema design through to the last pixel of the UI — and I'm
+most drawn to problems where the constraint *is* the interesting part. I care about
+written communication almost as much as code, because good docs age better than clever code.
 
-<details>
-<summary><b>📖 A little more (click me)</b></summary>
+Most of my best debugging happens away from the keyboard.
 
-<br/>
-
-- 🔭 I build across the stack — from schema design to the last pixel of the UI.
-- ✍️ I care about written communication almost as much as code. Good docs age better than clever code.
-- 🧩 I like problems where the constraint *is* the interesting part.
-- ⚡ Fun fact: most of my best debugging happens away from the keyboard.
-
-</details>
+|  |  |
+|---|---|
+| **Now** | Full-stack engineering · Node.js, React, Python, Java |
+| **Learning** | Data structures & algorithms · the React ecosystem, deeply |
+| **Open to** | Backend / full-stack roles, and side projects that are useful or ridiculous |
+| **Believes** | Technology is a vehicle for meaningful change, not a flex |
+| **Reach** | [ridhamgoyal3@gmail.com](mailto:ridhamgoyal3@gmail.com) |
 
 ---
 
@@ -70,18 +62,29 @@ const ridham = {
 
 ---
 
+## 📌 Selected Work
+
+<!-- Replace these with your three strongest repos. Anyone hiring reads this section
+     and skips the stats cards — it's worth more than everything below it. -->
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[project-one](https://github.com/ridhamxdev)** | One line on the problem it solves, not the features. | Node · Postgres · Redis |
+| **[project-two](https://github.com/ridhamxdev)** | What was hard about it, in a phrase. | React · TypeScript |
+| **[project-three](https://github.com/ridhamxdev)** | Why you built it. | Python · Docker |
+
+---
+
 ## 📊 The Numbers
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhamxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhamxdev&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=ridhamxdev&theme=tokyonight&hide_border=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ridhamxdev&theme=tokyo-night&hide_border=true&area=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ridhamxdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
@@ -233,8 +236,6 @@ If you actually clicked through every branch, email me. I owe you a coffee. ☕
 If you're working on something that matters — or something ridiculous — I'd like to hear about it.
 
 <a href="mailto:ridhamgoyal3@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-3B82F6?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 

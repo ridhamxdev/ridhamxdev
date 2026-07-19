@@ -1,18 +1,19 @@
 <!-- ══════════════════════ HEADER ══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:3B82F6,100:9333EA&height=200&section=header&text=Ridham%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:3B82F6,100:9333EA&height=200&section=header&text=Ridham%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Bengaluru&descAlignY=55&descSize=18" />
 
 <div align="center">
 
 <a href="https://github.com/ridhamxdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=520&lines=Building+things+that+matter.;Node.js+%7C+React+%7C+Python+%7C+Java;Currently+grinding+DSA+on+LeetCode;Let's+build+something+together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=560&lines=SDE+%40+TheDesiFood+%E2%80%94+shipping+to+real+users.;Next.js+%7C+Django+%7C+Node.js+%7C+AWS;Production+systems%2C+not+sandboxes.;Let's+build+something+together+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="mailto:ridhamgoyal3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:ridham.dev3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ridham-goyal-025b422a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-jet-ten-20.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ridham123__/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="Ridham_Goyal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ridhamgoyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=ridhamxdev&style=for-the-badge&color=6EE7B7&label=VISITORS" />
 
 </div>
 
@@ -22,19 +23,36 @@
 
 ## Who I am
 
-I build across the stack — schema design through to the last pixel of the UI — and I'm
-most drawn to problems where the constraint *is* the interesting part. I care about
-written communication almost as much as code, because good docs age better than clever code.
+Software Development Engineer at **TheDesiFood**, where I ship full-stack features to a live
+e-commerce platform that real customers use — GTM event tracking, multi-currency pricing for
+international launches, and an internal procurement and dispatch system that replaced a pile
+of manual coordination.
 
-Most of my best debugging happens away from the keyboard.
+Before that I built hardware-integrated microservices at **Akeo**, and shipped **EnamDoc**, a
+three-role dental care platform on React Native and AWS ECS Fargate with actual active users.
+I'm most drawn to problems where the constraint *is* the interesting part — and I care about
+written communication almost as much as code, because good docs age better than clever code.
 
 |  |  |
 |---|---|
-| **Now** | Full-stack engineering · Node.js, React, Python, Java |
-| **Learning** | Data structures & algorithms · the React ecosystem, deeply |
-| **Open to** | Backend / full-stack roles, and side projects that are useful or ridiculous |
-| **Believes** | Technology is a vehicle for meaningful change, not a flex |
-| **Reach** | [ridhamgoyal3@gmail.com](mailto:ridhamgoyal3@gmail.com) |
+| **Now** | SDE @ TheDesiFood · Next.js, Django, PostgreSQL, AWS |
+| **Studying** | B.E. Computer Science, DSATM Bengaluru · CGPA 8.25 · Class of 2026 |
+| **Learning** | DSA on LeetCode · applied ML and LLM integration |
+| **Wins** | 1st place at two DSATM hackathons — Algorave (8 hr) and Xenith (5 hr) |
+| **Reach** | [ridham.dev3@gmail.com](mailto:ridham.dev3@gmail.com) |
+
+---
+
+## 📌 Selected Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **TheDesiFood** | Live customer-facing e-commerce platform. I own procurement/dispatch tooling, multi-currency pricing, and the analytics layer behind an international market launch. | Next.js · Django · PostgreSQL · Klaviyo · GTM |
+| **EnamDoc** | Cross-platform dental ecosystem with 3-role RBAC (patient/dentist/admin), real-time consultations, and payments. Deployed to ECS Fargate through GitHub Actions. | React Native · Node.js · AWS · Firebase · Razorpay · Docker |
+| **Energence** | Renewable-energy optimizer pairing TensorFlow forecasting with the Gemini API to turn raw usage data into recommendations people can act on. | React · Django · TensorFlow · Gemini API |
+| **Synapse** | WhatsApp-style messaging platform — instant delivery, read receipts, typing indicators, OAuth 2.0. | Next.js · TypeScript · Socket.io · Prisma · MySQL |
+
+<sub>Repos are pinned below. Ping me if you want a walkthrough of any of them.</sub>
 
 ---
 
@@ -44,34 +62,23 @@ Most of my best debugging happens away from the keyboard.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,html,css&theme=dark" />
 
-**Frameworks & Libraries**
+**Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,tailwind,rabbitmq,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,nestjs,nextjs,react,graphql&theme=dark" />
 
-**Databases & Cloud**
+**Databases & Infra**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequelize,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis,rabbitmq,docker&theme=dark" />
 
-**Tools**
+**Cloud & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,git,github,linux,postman&theme=dark" />
 
 </div>
 
----
-
-## 📌 Selected Work
-
-<!-- Replace these with your three strongest repos. Anyone hiring reads this section
-     and skips the stats cards — it's worth more than everything below it. -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[project-one](https://github.com/ridhamxdev)** | One line on the problem it solves, not the features. | Node · Postgres · Redis |
-| **[project-two](https://github.com/ridhamxdev)** | What was hard about it, in a phrase. | React · TypeScript |
-| **[project-three](https://github.com/ridhamxdev)** | Why you built it. | Python · Docker |
+<sub>**Also:** TensorFlow · Gemini / OpenAI / Claude APIs · Hugging Face · Socket.io · Firebase Auth · JWT · OAuth 2.0 · RBAC · GitHub Actions CI/CD · ECS Fargate · Azure Data Factory</sub>
 
 ---
 
@@ -235,7 +242,7 @@ If you actually clicked through every branch, email me. I owe you a coffee. ☕
 
 If you're working on something that matters — or something ridiculous — I'd like to hear about it.
 
-<a href="mailto:ridhamgoyal3@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-3B82F6?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+<a href="mailto:ridham.dev3@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-3B82F6?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 
 </div>
 
